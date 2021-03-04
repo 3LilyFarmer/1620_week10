@@ -1,4 +1,4 @@
-.nav-container{
+.pizza_box{
     list-style-type: none;
     margin: 0px;
     padding: 5px;
@@ -17,14 +17,14 @@ body{
     background-color:#6E8783;
 }
 h1{
-    color:lemonchiffon;
+    color: #DB504A;
 }
-h2{
-    color:lavenderblush;
+.dark_text{
+    color: #334259;
 }
 p{
-    color:#FF8E38;
+    color:#E5E5DC;
 }
 ol li a{
-    color:burlywood;
+    color:#E5E5DC;
 }
