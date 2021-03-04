@@ -1,22 +1,20 @@
-ul{
+.nav-container{
     list-style-type: none;
     margin: 0px;
     padding: 5px;
     overflow: hidden;
-    background-color: lightblue;
+    background-color: #EDDDD0;
+    display: flex;
+    justify-content: center;
 }
-ul li{
-    float: left;
-}
-ul li{
+.nav-item{
     display: block;
     color: #6F1515;
-    text-align: center;
     padding: 5px;
     text-decoration: none;
 }
 body{
-    background-color:#152123;
+    background-color:#6E8783;
 }
 h1{
     color:lemonchiffon;
