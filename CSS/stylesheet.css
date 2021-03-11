@@ -3,7 +3,7 @@
     margin: 0px;
     padding: 5px;
     overflow: hidden;
-    background-color: #EDDDD0;
+    background-color: #a6cad4;
     display: flex;
     justify-content: center;
 }
@@ -29,7 +29,7 @@
 }
 
 body{
-    background-color:#6E8783;
+    background-color:#EDDDD0;
 }
 h1{
     color: #DB504A;
