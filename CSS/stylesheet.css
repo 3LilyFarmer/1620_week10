@@ -13,6 +13,21 @@
     padding: 5px;
     text-decoration: none;
 }
+.practice{
+    display: flex;
+    background-color: white;
+    justify-content: end;
+    align-items: ;
+    width: 500px;
+    padding: 2px;
+}
+.practice_item{
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 20px;
+    flex-basis: auto;
+}
+
 body{
     background-color:#6E8783;
 }
